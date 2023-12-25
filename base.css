@@ -1,0 +1,32 @@
+body{
+    background: aqua;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/280px-OSIRIS_Mars_true_color.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+#teste{
+color:rgb(255, 0, 0); 
+text-align: center; 
+font-size:88px; 
+margin: auto;
+border: 3px solid rgb(53, 51, 153);
+border-radius: 50px;
+margin: 114px;
+margin-top: 2px
+
+}
+p{
+    color: rgb(0, 255, 85);
+    text-align: center;
+   
+}
+.blocoImagem{
+    height: 180px;
+
+    background-color: aliceblue;
+    margin-left: 80%;
+    border: 2px solid blue;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/280px-OSIRIS_Mars_true_color.jpg);
+    background-size: cover;
+    
+}
